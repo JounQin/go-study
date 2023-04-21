@@ -2,9 +2,11 @@ go 1.20
 
 use (
 	data-access
+	effective
 	fuzz
 	generics
 	greetings
 	hello
+	web-server
 	web-service-gin
 )
