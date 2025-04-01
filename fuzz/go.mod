@@ -1,3 +1,3 @@
 module example.com/fuzz
 
-go 1.24.0
+go 1.24.1
